@@ -3,7 +3,7 @@
 # My name is Matheus Saggiorato da Silva!
 
 ### About me
-I'm a beginner full Stack Web developer.
+I'm a beginner Web developer.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusSaggiorato)](https://www.github.com/matheusSaggiorato)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-saggiorato)](https://www.linkedin.com/in/matheus-saggiorato/)
