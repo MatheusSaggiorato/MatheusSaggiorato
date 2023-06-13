@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning TypeScript focused in backend<br>⚡ Passionate about bodybuilding, healthy lifestyle, personal development and Rock and Roll
+🌱 I’m currently learning TypeScript focused in backend.<br>⚡ In love with bodybuilding, but with a carcass of a cricket! healthy lifestyle, personal development and Rock and Roll.
 
 
 ## 🌐 Socials:
