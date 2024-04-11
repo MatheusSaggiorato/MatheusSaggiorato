@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning TypeScript focused in backend.<br>⚡ Passionate about activities in nature, entrepreneurship, personal development and Rock and Roll.
+🌱 I'm currently in my first semester of software engineering.<br>⚡ Passionate about outdoor activities, entrepreneurship, personal development and Rock and Roll.
 
 
 ## 🌐 Socials:
