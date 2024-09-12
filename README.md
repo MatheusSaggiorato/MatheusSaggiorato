@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏼‍💻 I'm currently in my first semester of software engineering, I'm fascinated by machine learning, data science and A.I. That's why I'm studying this area together with Python. <br>🌌 Passionate about science, outdoor activities, entrepreneurship and Rock and Roll.
+👨🏼‍💻 I'm currently in my second semester of software engineering, I'm fascinated by machine learning, data science and A.I. That's why I'm studying this area together with Python. <br>🌌 Passionate about science, outdoor activities, entrepreneurship and Rock and Roll.
 
 
 ## 🌐 Socials:
